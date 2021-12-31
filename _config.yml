@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+deploy:
+type: git
+repo: https://github.com/caowenli2022/caowenli2022.github.io.git
+branch: master
